@@ -23,7 +23,6 @@ if (!isValidUUID(userID)) {
 
 let parsedSocks5Address = {}; 
 let enableSocks = false;
-let enableSocks22323 = false;
 // 虚假uuid和hostname，用于发送给配置生成服务
 let fakeUserID ;
 let fakeHostName ;
