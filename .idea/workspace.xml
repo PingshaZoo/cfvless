@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16118c00-836d-406d-a42d-16783a73e994" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/_worker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACL4SSR_Online_Mini_MultiMode.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,11 +19,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="_worker.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_worker.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_worker.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+            <state relative-caret-position="198">
+              <caret line="12" column="109" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="120" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -31,7 +31,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="ACL4SSR_Online_Mini_MultiMode.ini" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ACL4SSR_Online_Mini_MultiMode.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="665">
+              <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>userID</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -42,6 +56,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/_worker.js" />
+        <option value="$PROJECT_DIR$/ACL4SSR_Online_Mini_MultiMode.ini" />
       </list>
     </option>
   </component>
@@ -154,12 +169,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732948874428</updated>
-      <workItem from="1732948876027" duration="948000" />
+      <workItem from="1732948876027" duration="1311000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="948000" />
+    <option name="totallyTimeSpent" value="1311000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1453" height="873" extended-state="6" />
@@ -174,11 +189,11 @@
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32871014" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32871014" />
+      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.32871014" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32871014" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24946237" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24946237" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -242,11 +257,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_worker.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        <state relative-caret-position="198">
+          <caret line="12" column="109" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="120" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ACL4SSR_Online_Mini_MultiMode.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
         </state>
       </provider>
     </entry>
